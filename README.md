@@ -1,7 +1,7 @@
 # useful-scripts
 My collection of useful bash and batch scripts
 
-##### Batch scripts (Windows only)
+### Batch scripts (Windows only)
 
 To use scripts below, you have to create a link in PATH variables to the folder with scripts. 
 After that you can call any script, just by its name, like that: `de web sh`
